@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Files the Claude app saves into this folder
+Claude outputs/
